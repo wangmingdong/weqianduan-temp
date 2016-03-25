@@ -90,6 +90,9 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+#services{
+	font-size: 45px;
+}
 #logo{
 	width: 60px;
 }
