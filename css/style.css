@@ -20,6 +20,10 @@ body {
 .site-name {
 	font-family: 'Raleway', sans-serif;
 }
+::selection{
+    color: white;
+    background: #1EAD71;
+}
 html,
 body {
 	height: 100%;
