@@ -1,0 +1,25 @@
+{
+  "name": "weqianduan-temp",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/wangmingdong/weqianduan-temp.svg?branch=master)](https://travis-ci.org/wangmingdong/weqianduan-temp) 微前端介绍页面",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint **.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangmingdong/weqianduan-temp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangmingdong/weqianduan-temp/issues"
+  },
+  "homepage": "https://github.com/wangmingdong/weqianduan-temp#readme"
+}
