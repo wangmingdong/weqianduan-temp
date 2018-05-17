@@ -14,3 +14,7 @@ before_deploy:
   - git add.
   - git commit -m 'travisa automatic generate changelog'
   - git push origin HEAD:master
+deploy:
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  skip_cleanup: true
